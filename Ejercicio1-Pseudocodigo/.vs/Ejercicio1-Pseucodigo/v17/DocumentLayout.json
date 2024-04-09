@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Facu-\\Desktop\\C#\\ConsoleApp1\\ConsoleApp1\\Ejercicio1-Pseucodigo\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Facu-\\Documents\\GitHub\\Programacion1-FacundoBotto2024\\Ejercicio1-Pseudocodigo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B065B9FB-559C-4A10-8417-4E9BF67402D4}|Ejercicio1-Pseucodigo\\Ejercicio1-Pseucodigo.csproj|c:\\users\\facu-\\documents\\github\\programacion1-facundobotto2024\\ejercicio1-pseudocodigo\\ejercicio1-pseucodigo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B065B9FB-559C-4A10-8417-4E9BF67402D4}|Ejercicio1-Pseucodigo\\Ejercicio1-Pseucodigo.csproj|solutionrelative:ejercicio1-pseucodigo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Facu-\\Documents\\GitHub\\Programacion1-FacundoBotto2024\\Ejercicio1-Pseudocodigo\\Ejercicio1-Pseucodigo\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio1-Pseucodigo\\Program.cs",
+              "ToolTip": "C:\\Users\\Facu-\\Documents\\GitHub\\Programacion1-FacundoBotto2024\\Ejercicio1-Pseudocodigo\\Ejercicio1-Pseucodigo\\Program.cs",
+              "RelativeToolTip": "Ejercicio1-Pseucodigo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T20:24:16.806Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

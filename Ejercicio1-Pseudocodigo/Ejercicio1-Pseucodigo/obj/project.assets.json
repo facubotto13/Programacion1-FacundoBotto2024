@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Facu-\\Desktop\\C#\\ConsoleApp1\\ConsoleApp1\\Ejercicio1-Pseucodigo\\Ejercicio1-Pseucodigo\\Ejercicio1-Pseucodigo.csproj",
+      "projectUniqueName": "C:\\Users\\Facu-\\Documents\\GitHub\\Programacion1-FacundoBotto2024\\Ejercicio1-Pseudocodigo\\Ejercicio1-Pseucodigo\\Ejercicio1-Pseucodigo.csproj",
       "projectName": "Ejercicio1-Pseucodigo",
-      "projectPath": "C:\\Users\\Facu-\\Desktop\\C#\\ConsoleApp1\\ConsoleApp1\\Ejercicio1-Pseucodigo\\Ejercicio1-Pseucodigo\\Ejercicio1-Pseucodigo.csproj",
+      "projectPath": "C:\\Users\\Facu-\\Documents\\GitHub\\Programacion1-FacundoBotto2024\\Ejercicio1-Pseudocodigo\\Ejercicio1-Pseucodigo\\Ejercicio1-Pseucodigo.csproj",
       "packagesPath": "C:\\Users\\Facu-\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Facu-\\Desktop\\C#\\ConsoleApp1\\ConsoleApp1\\Ejercicio1-Pseucodigo\\Ejercicio1-Pseucodigo\\obj\\",
+      "outputPath": "C:\\Users\\Facu-\\Documents\\GitHub\\Programacion1-FacundoBotto2024\\Ejercicio1-Pseudocodigo\\Ejercicio1-Pseucodigo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Facu-\\AppData\\Roaming\\NuGet\\NuGet.Config",
