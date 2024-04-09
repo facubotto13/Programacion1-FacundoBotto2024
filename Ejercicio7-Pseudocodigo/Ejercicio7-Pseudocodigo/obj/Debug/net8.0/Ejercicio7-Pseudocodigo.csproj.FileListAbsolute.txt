@@ -1,0 +1,14 @@
+C:\Users\Facu-\Desktop\C#\ConsoleApp1\ConsoleApp1\Ejercicio7-Pseudocodigo\Ejercicio7-Pseudocodigo\obj\Debug\net8.0\Ejercicio7-Pseudocodigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Facu-\Desktop\C#\ConsoleApp1\ConsoleApp1\Ejercicio7-Pseudocodigo\Ejercicio7-Pseudocodigo\obj\Debug\net8.0\Ejercicio7-Pseudocodigo.AssemblyInfoInputs.cache
+C:\Users\Facu-\Desktop\C#\ConsoleApp1\ConsoleApp1\Ejercicio7-Pseudocodigo\Ejercicio7-Pseudocodigo\obj\Debug\net8.0\Ejercicio7-Pseudocodigo.AssemblyInfo.cs
+C:\Users\Facu-\Desktop\C#\ConsoleApp1\ConsoleApp1\Ejercicio7-Pseudocodigo\Ejercicio7-Pseudocodigo\obj\Debug\net8.0\Ejercicio7-Pseudocodigo.csproj.CoreCompileInputs.cache
+C:\Users\Facu-\Desktop\C#\ConsoleApp1\ConsoleApp1\Ejercicio7-Pseudocodigo\Ejercicio7-Pseudocodigo\bin\Debug\net8.0\Ejercicio7-Pseudocodigo.exe
+C:\Users\Facu-\Desktop\C#\ConsoleApp1\ConsoleApp1\Ejercicio7-Pseudocodigo\Ejercicio7-Pseudocodigo\bin\Debug\net8.0\Ejercicio7-Pseudocodigo.deps.json
+C:\Users\Facu-\Desktop\C#\ConsoleApp1\ConsoleApp1\Ejercicio7-Pseudocodigo\Ejercicio7-Pseudocodigo\bin\Debug\net8.0\Ejercicio7-Pseudocodigo.runtimeconfig.json
+C:\Users\Facu-\Desktop\C#\ConsoleApp1\ConsoleApp1\Ejercicio7-Pseudocodigo\Ejercicio7-Pseudocodigo\bin\Debug\net8.0\Ejercicio7-Pseudocodigo.dll
+C:\Users\Facu-\Desktop\C#\ConsoleApp1\ConsoleApp1\Ejercicio7-Pseudocodigo\Ejercicio7-Pseudocodigo\bin\Debug\net8.0\Ejercicio7-Pseudocodigo.pdb
+C:\Users\Facu-\Desktop\C#\ConsoleApp1\ConsoleApp1\Ejercicio7-Pseudocodigo\Ejercicio7-Pseudocodigo\obj\Debug\net8.0\Ejercicio7-Pseudocodigo.dll
+C:\Users\Facu-\Desktop\C#\ConsoleApp1\ConsoleApp1\Ejercicio7-Pseudocodigo\Ejercicio7-Pseudocodigo\obj\Debug\net8.0\refint\Ejercicio7-Pseudocodigo.dll
+C:\Users\Facu-\Desktop\C#\ConsoleApp1\ConsoleApp1\Ejercicio7-Pseudocodigo\Ejercicio7-Pseudocodigo\obj\Debug\net8.0\Ejercicio7-Pseudocodigo.pdb
+C:\Users\Facu-\Desktop\C#\ConsoleApp1\ConsoleApp1\Ejercicio7-Pseudocodigo\Ejercicio7-Pseudocodigo\obj\Debug\net8.0\Ejercicio7-Pseudocodigo.genruntimeconfig.cache
+C:\Users\Facu-\Desktop\C#\ConsoleApp1\ConsoleApp1\Ejercicio7-Pseudocodigo\Ejercicio7-Pseudocodigo\obj\Debug\net8.0\ref\Ejercicio7-Pseudocodigo.dll

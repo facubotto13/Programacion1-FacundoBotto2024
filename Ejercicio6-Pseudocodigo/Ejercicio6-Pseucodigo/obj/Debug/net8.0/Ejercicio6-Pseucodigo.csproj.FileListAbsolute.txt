@@ -1,0 +1,14 @@
+C:\Users\Facu-\Desktop\C#\ConsoleApp1\ConsoleApp1\Ejercicio6-Pseucodigo\Ejercicio6-Pseucodigo\bin\Debug\net8.0\Ejercicio6-Pseucodigo.exe
+C:\Users\Facu-\Desktop\C#\ConsoleApp1\ConsoleApp1\Ejercicio6-Pseucodigo\Ejercicio6-Pseucodigo\bin\Debug\net8.0\Ejercicio6-Pseucodigo.deps.json
+C:\Users\Facu-\Desktop\C#\ConsoleApp1\ConsoleApp1\Ejercicio6-Pseucodigo\Ejercicio6-Pseucodigo\bin\Debug\net8.0\Ejercicio6-Pseucodigo.runtimeconfig.json
+C:\Users\Facu-\Desktop\C#\ConsoleApp1\ConsoleApp1\Ejercicio6-Pseucodigo\Ejercicio6-Pseucodigo\bin\Debug\net8.0\Ejercicio6-Pseucodigo.dll
+C:\Users\Facu-\Desktop\C#\ConsoleApp1\ConsoleApp1\Ejercicio6-Pseucodigo\Ejercicio6-Pseucodigo\bin\Debug\net8.0\Ejercicio6-Pseucodigo.pdb
+C:\Users\Facu-\Desktop\C#\ConsoleApp1\ConsoleApp1\Ejercicio6-Pseucodigo\Ejercicio6-Pseucodigo\obj\Debug\net8.0\Ejercicio6-Pseucodigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Facu-\Desktop\C#\ConsoleApp1\ConsoleApp1\Ejercicio6-Pseucodigo\Ejercicio6-Pseucodigo\obj\Debug\net8.0\Ejercicio6-Pseucodigo.AssemblyInfoInputs.cache
+C:\Users\Facu-\Desktop\C#\ConsoleApp1\ConsoleApp1\Ejercicio6-Pseucodigo\Ejercicio6-Pseucodigo\obj\Debug\net8.0\Ejercicio6-Pseucodigo.AssemblyInfo.cs
+C:\Users\Facu-\Desktop\C#\ConsoleApp1\ConsoleApp1\Ejercicio6-Pseucodigo\Ejercicio6-Pseucodigo\obj\Debug\net8.0\Ejercicio6-Pseucodigo.csproj.CoreCompileInputs.cache
+C:\Users\Facu-\Desktop\C#\ConsoleApp1\ConsoleApp1\Ejercicio6-Pseucodigo\Ejercicio6-Pseucodigo\obj\Debug\net8.0\Ejercicio6-Pseucodigo.dll
+C:\Users\Facu-\Desktop\C#\ConsoleApp1\ConsoleApp1\Ejercicio6-Pseucodigo\Ejercicio6-Pseucodigo\obj\Debug\net8.0\refint\Ejercicio6-Pseucodigo.dll
+C:\Users\Facu-\Desktop\C#\ConsoleApp1\ConsoleApp1\Ejercicio6-Pseucodigo\Ejercicio6-Pseucodigo\obj\Debug\net8.0\Ejercicio6-Pseucodigo.pdb
+C:\Users\Facu-\Desktop\C#\ConsoleApp1\ConsoleApp1\Ejercicio6-Pseucodigo\Ejercicio6-Pseucodigo\obj\Debug\net8.0\Ejercicio6-Pseucodigo.genruntimeconfig.cache
+C:\Users\Facu-\Desktop\C#\ConsoleApp1\ConsoleApp1\Ejercicio6-Pseucodigo\Ejercicio6-Pseucodigo\obj\Debug\net8.0\ref\Ejercicio6-Pseucodigo.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Facu-\\Desktop\\C#\\ConsoleApp1\\ConsoleApp1\\Ejercicio5-Pseudocodigo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E41B9B33-2004-4EBB-9C49-1134126EE345}|Ejercicio5-Pseudocodigo\\Ejercicio5-Pseudocodigo.csproj|c:\\users\\facu-\\desktop\\c#\\consoleapp1\\consoleapp1\\ejercicio5-pseudocodigo\\ejercicio5-pseudocodigo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E41B9B33-2004-4EBB-9C49-1134126EE345}|Ejercicio5-Pseudocodigo\\Ejercicio5-Pseudocodigo.csproj|solutionrelative:ejercicio5-pseudocodigo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Facu-\\Desktop\\C#\\ConsoleApp1\\ConsoleApp1\\Ejercicio5-Pseudocodigo\\Ejercicio5-Pseudocodigo\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio5-Pseudocodigo\\Program.cs",
+              "ToolTip": "C:\\Users\\Facu-\\Desktop\\C#\\ConsoleApp1\\ConsoleApp1\\Ejercicio5-Pseudocodigo\\Ejercicio5-Pseudocodigo\\Program.cs",
+              "RelativeToolTip": "Ejercicio5-Pseudocodigo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T18:56:36.266Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
